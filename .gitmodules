@@ -1,0 +1,3 @@
+[submodule "cob-service"]
+	path = cob-service
+	url = https://github.com/ak0024/cob-service.git
