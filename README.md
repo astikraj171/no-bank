@@ -1,1 +1,3 @@
 # no-bank
+
+TEST
